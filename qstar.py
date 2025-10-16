@@ -1,5 +1,3 @@
-# Copyright (c) Antfin, Inc. All rights reserved.
-
 import copy
 import heapq
 import numpy as np

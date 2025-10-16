@@ -1,5 +1,3 @@
-# Copyright (c) Antfin, Inc. All rights reserved.
-
 import torch
 import torch.nn as nn
 import torch_geometric as thg

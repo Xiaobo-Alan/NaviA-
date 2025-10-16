@@ -1,5 +1,3 @@
-# Copyright (c) Antfin, Inc. All rights reserved.
-
 import ast
 import json
 import time
